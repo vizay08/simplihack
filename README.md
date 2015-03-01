@@ -1,0 +1,2 @@
+# simplihack
+SimpliHack -> Hackathon
